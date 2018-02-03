@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>木渔 Blog</title>
+        <link>http://www.muyus.com/blog</link>
+        <description>The best place to stay up-to-date with the latest 木渔 news and events.</description>
+        <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>木渔 Blog</title>
+            <url>http://www.muyus.comimg/muyu.png</url>
+            <link>http://www.muyus.com/blog</link>
+        </image>
+        <copyright>Copyright © 2018 Your Name or Your Company Name</copyright>
+        <item>
+            <title><![CDATA[First]]></title>
+            <link>http://www.muyus.com/blog/2018/2/1/first.html</link>
+            <guid>http://www.muyus.com/blog/2018/2/1/first.html</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+
+
+]]></description>
+        </item>
+    </channel>
+</rss>

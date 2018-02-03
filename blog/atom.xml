@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.muyus.com/blog</id>
+    <title>木渔 Blog</title>
+    <updated>1970-01-01T00:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="http://www.muyus.com/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest 木渔 news and events.</subtitle>
+    <logo>http://www.muyus.comimg/muyu.png</logo>
+    <rights>Copyright © 2018 Your Name or Your Company Name</rights>
+    <entry>
+        <title type="html"><![CDATA[First]]></title>
+        <id>http://www.muyus.com/blog/2018/2/1/first.html</id>
+        <link href="http://www.muyus.com/blog/2018/2/1/first.html">
+        </link>
+        <updated>1970-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[
+
+
+]]></summary>
+        <author>
+            <name>木渔</name>
+            <uri>https://github.com/muyus</uri>
+        </author>
+    </entry>
+</feed>
