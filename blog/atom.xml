@@ -9,12 +9,13 @@
     <logo>http://www.muyus.comimg/muyu.png</logo>
     <rights>Copyright © 2018 Your Name or Your Company Name</rights>
     <entry>
-        <title type="html"><![CDATA[First]]></title>
+        <title type="html"><![CDATA[Hello World]]></title>
         <id>http://www.muyus.com/blog/2018/2/1/hello-world.html</id>
         <link href="http://www.muyus.com/blog/2018/2/1/hello-world.html">
         </link>
         <updated>1970-01-01T00:00:00Z</updated>
         <summary type="html"><![CDATA[
+破茧重生。
 
 
 ]]></summary>
