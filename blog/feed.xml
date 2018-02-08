@@ -14,6 +14,34 @@
         </image>
         <copyright>Copyright © 2018 Your Name or Your Company Name</copyright>
         <item>
+            <title><![CDATA[Mongodb模型关系设计原则]]></title>
+            <link>http://www.muyus.com/blog/2018/2/8/mongodb-model.html</link>
+            <guid>http://www.muyus.com/blog/2018/2/8/mongodb-model.html</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+* 一对一 内嵌关系模型
+* 一对多 内嵌关系模型
+* 一对多 引用模型
+
+> 核心原则：对具有共享性的数据模型进行数据集合拆分，其它情况尽量使用同一集合，减少多表查询操作。
+
+## 一对一 内嵌关系模型
+应用场景：内嵌的对象是独有，不具有共享性
+```
+{
+   _id: "joe",
+   name: "Joe Bookreader",
+   address: {
+              street: "123 Fake Street",
+              city: "Faketon",
+              state: "MA",
+              zip: "12345"
+            }
+  }
+```
+]]></description>
+        </item>
+        <item>
             <title><![CDATA[Hello World]]></title>
             <link>http://www.muyus.com/blog/2018/2/1/hello-world.html</link>
             <guid>http://www.muyus.com/blog/2018/2/1/hello-world.html</guid>
