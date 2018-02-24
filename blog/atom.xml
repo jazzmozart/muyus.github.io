@@ -42,6 +42,23 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[分布式系统设计数据一致性相关理论]]></title>
+        <id>http://www.muyus.com/blog/2018/2/24/distributed-system-theorem.html</id>
+        <link href="http://www.muyus.com/blog/2018/2/24/distributed-system-theorem.html">
+        </link>
+        <updated>1970-01-01T00:00:00Z</updated>
+        <summary type="html"><![CDATA[
+* ACID
+* CAP
+* BASE
+
+]]></summary>
+        <author>
+            <name>木渔</name>
+            <uri>https://github.com/muyus</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>http://www.muyus.com/blog/2018/2/1/hello-world.html</id>
         <link href="http://www.muyus.com/blog/2018/2/1/hello-world.html">

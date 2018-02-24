@@ -42,6 +42,18 @@
 ]]></description>
         </item>
         <item>
+            <title><![CDATA[分布式系统设计数据一致性相关理论]]></title>
+            <link>http://www.muyus.com/blog/2018/2/24/distributed-system-theorem.html</link>
+            <guid>http://www.muyus.com/blog/2018/2/24/distributed-system-theorem.html</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+* ACID
+* CAP
+* BASE
+
+]]></description>
+        </item>
+        <item>
             <title><![CDATA[Hello World]]></title>
             <link>http://www.muyus.com/blog/2018/2/1/hello-world.html</link>
             <guid>http://www.muyus.com/blog/2018/2/1/hello-world.html</guid>
